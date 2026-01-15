@@ -28,13 +28,6 @@
     "category":"school"
     },
     {
-    "name":"Amanat",
-    "description":"Аманат<br><img src='amanat.jpeg' width='200'>",
-    "lat":47.799101152672385,
-    "lng": 67.70370704781065,
-    "category":"political"
-    },
-    {
     "name":"Жезказганский казахский музыкально-драматический театр им. С. Кожамкулова",
     "description":"Жезқазған қазақ музыкалық-драма театры. Қожамқұлова А.<br><img src='teatr.jpeg' width='200'>",
     "lat":47.79246564774162,
@@ -67,4 +60,5 @@
     "category":"park"
     }
 ]
+
 
