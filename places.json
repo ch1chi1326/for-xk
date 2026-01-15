@@ -1,16 +1,69 @@
 [
     {
-    "name": "Центральный парк",
-    "description": "Место для отдыха<br><img src='images/bulvar.jpg' width='200'>",
-    "lat": 47.79981391762761,
-    "lng": 67.70857474915105,
-    "category": "park"
+    "name": "Школа лицей номер 7",
+    "description": "Қ.И Сатбаев атындағы №7 мектеп-лицей<br><img src='shcolaseven.jpeg' width='150'>",
+    "lat": 47.80666851052399,
+    "lng": 67.72202916860935,
+    "category": "school"
     },
     {
-        "name": "Школа лицей номер 7",
-        "description": "школа лицей",
-        "lat": 47.80666851052399,
-        "lng": 67.72202916860935,
-        "category": "school"
+    "name": "городской фонтан",
+    "description":"фонтан<br><img src='fantan.jpeg' width='170'>",
+    "lat": 47.799751568108064,
+    "lng": 67.71451322264126,
+    "category":"park"
+    },
+    {
+    "name": "Аппарат акима области Ұлытау",
+    "description":"Ұлытау облысының әкімдігі<br><img src='akimat.jpeg' width='170'>",
+    "lat": 47.80441052971412,
+    "lng": 67.71608428399041,
+    "category":"political"    
+    },
+    {
+    "name":"Жезказганский университет им. Байконурова",
+    "description":"Жезқазған университеті. Байқоңырова<br><img src='univer.jpeg' width='200'>",
+    "lat":47.803620132080134,
+    "lng": 67.71531401596161,
+    "category":"school"
+    },
+    {
+    "name":"Amanat",
+    "description":"Аманат<br><img src='Amanat.jpeg' width='200'>",
+    "lat":47.799101152672385,
+    "lng": 67.70370704781065,
+    "category":"political"
+    },
+    {
+    "name":"Жезказганский казахский музыкально-драматический театр им. С. Кожамкулова",
+    "description":"Жезқазған қазақ музыкалық-драма театры. Қожамқұлова А.<br><img src='teatr.jpeg' width='200'>",
+    "lat":47.79246564774162,
+    "lng": 67.713155489181
+    },
+    {
+    "name":"Қазаxмыс",
+    "description":"Қазаxмыс<br><img src='kazak.jpeg' width='200'>",
+    "lat":47.79288915016559,
+    "lng": 67.71457081598197
+    },
+    {
+    "name":"Самсунг Больница",
+    "description":"ТОО «Медицинский центр Жезказган»<br><img src='samsa.jpeg' width='200'>",
+    "lat":47.81746319431693,
+    "lng": 67.68766857226097
+    },
+    {
+    "name":"Управление полиции г. Жезказган",
+    "description":"Жезқазған қаласының полиция басқармасы<br><img src='prakatura.jpeg' width='200'>",
+    "lat":47.79761843060637,
+    "lng": 67.70143646645245,
+    "category":"political"
+    },
+    {
+    "name":"Бульвар Космонавтов",
+    "description":"Ғарышкерлер Бульвары<br><img src='bulvar.jpg' width='320'>",
+    "lat":47.79979120921392,
+    "lng": 67.70855516195284,
+    "category":"park"
     }
 ]
