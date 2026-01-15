@@ -29,7 +29,7 @@
     },
     {
     "name":"Amanat",
-    "description":"Аманат<br><img src='Amanat.jpeg' width='200'>",
+    "description":"Аманат<br><img src='amanat.jpeg' width='200'>",
     "lat":47.799101152672385,
     "lng": 67.70370704781065,
     "category":"political"
@@ -67,3 +67,4 @@
     "category":"park"
     }
 ]
+
